@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+
+    <string-array name="spinner">
+        <item>choose candidate</item>
+        <item>candidate 1</item>
+        <item>candidate 2</item>
+        <item>candidate 3</item>
+    </string-array>
+</resources>
